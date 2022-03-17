@@ -11,7 +11,7 @@
 
 > A Fully Modular and Efficient Yotsuba Bot <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Whatup364/Chitoge/blob/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Aries-27/Marin-Kitagawa-Bot.git)
 
 </div><br/>
 <br/>
