@@ -337,7 +337,7 @@ ${this.client.config.prefix}Help8 [${this.client.config.prefix}h8]
 💦 If You Want More Stuff Type ${this.client.config.prefix}h8
 ───────────────
 ┌────────────┈
-│  🤍マリン🤍
+│  💛エライナ💛
 └────────────┈` }
         )
     }
