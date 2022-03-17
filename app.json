@@ -1,6 +1,6 @@
 {
     
-  "name": "Marin",
+  "name": "Elaina",
   "description": "A WhatsApp Bot With Rich NSFW Features based on chitoge.",
   "keywords": [
       "bot",
@@ -12,9 +12,9 @@
       "whatsapp-sticker-bot",
       "whatsapp-botto"
   ],
-  "website": "https://github.com/ShinNouzen/Chitoge#readme",
-  "repository": "https://github.com/Chey-san/Marin-Kitagawa-git",
-  "logo": "https://www.linkpicture.com/q/IMG-20220303-WA0752.jpg",
+  "website": "https://github.com/Aries-27/Marin-Kitagawa-Bot.git",
+  "repository": "https://github.com/Aries-27/Marin-Kitagawa-Bot.git",
+  "logo": "https://i.ibb.co/31CpQZh/IMG-20220317-104641.jpg",
   "success_url": "/",
   "env": {
       "PREFIX": {
