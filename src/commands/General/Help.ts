@@ -25,7 +25,7 @@ export default class Command extends BaseCommand {
             mimetype: Mimetype.gif,
             caption: `Konnichiwa👋 ɪ ᴀᴍ ELAINA💖💘!
 
-ᴛʏᴘᴇ " ${this.client.config.prefix}ᴏᴡɴᴇʀ " ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ MY OWNER! If I you want add bot in your gc than kindly contact the owner !
+ᴛʏᴘᴇ " ${this.client.config.prefix}ᴏᴡɴᴇʀ " ᴛᴏ ᴄᴏɴᴛᴀᴄᴛ MY OWNER! If I you want to add bot in your gc than kindly contact the owner !
 
 ᴍʏ ᴘʀᴇғʀɪx ${this.client.config.prefix}
 
