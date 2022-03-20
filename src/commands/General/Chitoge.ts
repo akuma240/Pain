@@ -9,10 +9,10 @@ import { ISimplifiedMessage } from "../../typings";
 export default class Command extends BaseCommand {
 	constructor(client: WAClient, handler: MessageHandler) {
 		super(client, handler, {
-			command: "elaina",
+			command: "akuma",
 			description: "Displays the info",
 			category: "general",
-			usage: `${client.config.prefix}elaina`,
+			usage: `${client.config.prefix}akuma`,
 			baseXp: 200,
 		});
 	}
@@ -27,7 +27,7 @@ export default class Command extends BaseCommand {
 			{
 				quoted: M.WAMessage,
 				mimetype: Mimetype.gif,
-				caption: `💕 *Elaina* 💕\n\n🍀 *Description: A WhatsApp Bot developed by *Ronen* With Rich Anime features based on Elaina.*\n\n🌐 *OFFICIAL BOT URL:https://github.com/Ronen6999/Elaina-bot* \n\n 📒 *Guide:https://github.com/Ronen6999/Elaina-bot* \n\n 👾 *BOT URL:https://github.com/Ronen6999/Elaina-bot* \n`,
+				caption: `💕 *akuma* 💕\n\n🍀 *Description: A WhatsApp Bot developed by *sumith* With Rich Anime features based on akuma.*\n\n🌐 *OFFICIAL BOT URL:https://github.com/Ronen6999/Elaina-bot* \n\n 📒 *Guide:https://github.com/Ronen6999/Elaina-bot* \n\n 👾 *BOT URL:https://github.com/Ronen6999/Elaina-bot* \n`,
 			}
 		);
 	};
