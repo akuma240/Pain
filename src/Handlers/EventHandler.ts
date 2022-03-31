@@ -23,10 +23,10 @@ export default class EventHandler {
 							.map((jid) => `@${jid.split("@")[0]}`)
 							.join(", ")}`
 					: event.action === "remove"
-					? `Goodbye *@${
+					? `All mighty push *@${
 							event.participants[0].split("@")[0]
-					  }* 👋🏻, why did you even join this group at the first place if you were to leave. Don't come back Sayonara.`
-					: `Ufff, looks like *@${
+					  }* ♀️, I want you to feel pain , accept pain & know pain.`
+					: `Talk about peace *@${
 							event.participants[0].split("@")[0]
 					  }* got ${this.client.util.capitalize(event.action)}d${
 							event.actor ? ` by @${event.actor.split("@")[0]}` : ""
