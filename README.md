@@ -1,7 +1,7 @@
 <div align="center">
 <a href="https://ibb.co/wgPbrWZ"><img src="https://i.ibb.co/fFyKGpV/thumb-1920-1114169.jpg" alt="thumb-1920-1114169" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>bbcode image</a><br />
 
-# **Elaina : A WhatsApp BOT WITH RICH NSFW FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
+# **Pain : A WhatsApp BOT WITH RICH NSFW FEATURES BASED ON <a href="https://github.com/ShineiIchijo/Chitoge">CHITOGE</er></a></h1>**
 
 [![CodeFactor](https://www.codefactor.io/repository/github/shineiichijo/chitoge/badge)](https://www.codefactor.io/repository/github/shineiichijo/chitoge)
 
@@ -9,7 +9,7 @@
 
 > A Fully Modular and Efficient Bot <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Aryastark2/Elaina-bot.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/Nagatopain08/Elaina-bot.git)
 
 </div><br/>
 <br/>
