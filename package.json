@@ -1,5 +1,5 @@
 {
-    "name": "akuma",
+    "name": "PAIN",
     "version": "3.0.0",
     "description": "A WhatsApp Bot With Rich Anime Features.",
     "main": "dist/chitoge.js",
@@ -25,7 +25,7 @@
     "bugs": {
         "url": "https://github.com/ShineiIchijo/Chitoge/issues"
     },
-    "homepage": "https://github.com/Aryastark2/Elaina-bot/blob/main/README.md",
+    "homepage": "https://github.com/Nagatopain08/Elaina-bot/blob/main/README.md",
     "devDependencies": {
         "@types/express": "^4.17.12",
         "@types/fs-extra": "^9.0.11",
