@@ -8,10 +8,10 @@ import { ISimplifiedMessage } from '../../typings'
 export default class Command extends BaseCommand {
     constructor(client: WAClient, handler: MessageHandler) {
         super(client, handler, {
-            command: 'chey',
-            description: 'Displays info about chey.',
+            command: 'pain',
+            description: 'Displays info about pain.',
             category: 'general',
-            usage: `${client.config.prefix}chey`
+            usage: `${client.config.prefix}pain`
         })
     }
 
@@ -22,16 +22,16 @@ export default class Command extends BaseCommand {
         let rin = n[Math.floor(Math.random() * n.length)]
         return void this.client.sendMessage(M.from, { url: rin }, MessageType.video, {quoted:M.WAMessage,
             mimetype: Mimetype.gif,
-            caption: `Hey I'm CHEY, a learner/student & an upcoming developer in the future.
+            caption: `Hey I'm pain, a learner/student & an upcoming developer in the future.
             
 📫𝙒𝙝𝙖𝙩𝙨𝘼𝙥𝙥;
-Wa.me/918373017400
+Wa.me/916301185837
 
 ⭕𝙂𝙞𝙩𝙝𝙪𝙗;
-https://github.com/Chey-san
+https://github.com/nagatopain07
 
 📮𝙄𝙣𝙨𝙩𝙖𝙜𝙧𝙖𝙢;
-https://instagram.com/its_chey_7
+https://instagram.com/angatopain07
 
 🚀𝘿𝙞𝙨𝙘𝙤𝙧𝙙;
 ｟𝖢𝗈𝗆𝗂𝗇𝗀 𝖲𝗈𝗈𝗇｠
