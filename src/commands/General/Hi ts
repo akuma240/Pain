@@ -50,7 +50,7 @@ export default class Command extends BaseCommand {
 
       contentText: `Ara Ara,Hajimemashite`,
 
-      footerText: "💜 KUrumI 💜",
+      footerText: "💝 Marin💝",
 
       buttons: buttons,
 
