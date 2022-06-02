@@ -32,7 +32,7 @@ export default class Command extends BaseCommand {
 
         const n = [
 
-            'https://i.ibb.co/RPWcDHW/Lelouch-vi-Brittania-by-muneeb250-on-Deviant-Art.jpg'
+            'https://i.ibb.co/D5PTj9s/060aa18254f961b018cead42eb33f8b3.jpg'
 
         ]
 
