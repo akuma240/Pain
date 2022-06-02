@@ -95,11 +95,11 @@ export default class MessageHandler {
 			)}`
 		   );
 			if (!command)
-			return void M.reply( await request.buffer(`https://c.tenor.com/p_62CIbGatIAAAPo/naruto-pain.mp4`),
+			return void M.reply( await request.buffer(`https://c.tenor.com/qvsXglbsb7oAAAPo/shinra-tensei.mp4`),
                     MessageType.video,
                     Mimetype.gif,
                     undefined,
-                    `No such command! Have you never seen someone use the command *${this.client.config.prefix}help*`,
+                    `Wtf your using wrong command, shinra tensei use something from *${this.client.config.prefix}help*`,
                     undefined
                 )
 		const user = await this.client.getUser(M.sender.jid);
@@ -119,11 +119,11 @@ export default class MessageHandler {
 			command.config?.modsOnly &&
 			!this.client.config.mods?.includes(M.sender.jid)
 		) {
-			return void M.reply(`Only MODS are allowed to use this command.`);
+			return void M.reply(`Know your place only Gods are allowed to use this command.`);
 		}
 		if (command.config?.adminOnly && !M.sender.isAdmin)
 			return void M.reply(
-				`Sorry this command is only meant for the group admins ask the Admin!`
+				`Know your place this command is meant for group admins!`
 			);
 		try {
 			await command.run(M, this.parseArgs(args));
