@@ -44,11 +44,11 @@ export default class Command extends BaseCommand {
 			}
             let text = `
 ╭─This group shall know pain
-│⋊ 𝕌𝕤𝕖𝕣: *${M.sender.username}*
-│⋊ ℕ𝕒𝕞𝕖: PAIN
-│⋊ ℙ𝕣𝕖𝕗𝕚𝕩: ${this.client.config.prefix}
-│⋊ 𝕆𝕨𝕟𝕖𝕣: *${this.client.config.prefix}mod* Ask Mods if you want to add me in your Group
-│⋊ 𝕆𝕗𝕗𝕚𝕔𝕚𝕒𝕝 𝔾𝕣𝕠𝕦𝕡: https://chat.whatsapp.com/EvfBsMRzslU5K6GYv5ccvP
+│⋊ 𝐔𝐬𝐞𝐫: *${M.sender.username}*
+│⋊ 𝐍𝐚𝐦𝐞: 𝐏𝐀𝐈𝐍 𝐁𝐎𝐓
+│⋊ 𝐏𝐫𝐞𝐟𝐢𝐱: ${this.client.config.prefix}
+
+│⋊ 𝐎𝐰𝐧𝐞𝐫: https://www.instagram.com/akuma__24/
 ╰────────────┈平和                            \n\n`
             const keys = Object.keys(categories)
             for (const key of keys)
